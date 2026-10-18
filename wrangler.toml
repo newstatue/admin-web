@@ -1,4 +1,4 @@
-name = "web"
+name = "admin-web"
 compatibility_date = "2026-10-01"
 workers_dev = false
 preview_urls = false

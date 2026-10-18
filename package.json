@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "admin-web",
   "private": true,
   "version": "0.0.2",
   "packageManager": "pnpm@12.8.1",
